@@ -2,10 +2,6 @@
 
 This project extracts and analyzes a Reddit user's public activity (posts and comments) to generate a **User Persona** based on behavioral and content patterns. The persona includes key psychological and activity-based insights with references to the user's own content.
 
----
-## 🎬 Demo Video
-
-[![Watch the video](https://img.youtube.com/vi/-RW85a-uk7E/0.jpg)](https://www.youtube.com/watch?v=-RW85a-uk7E)
 
 ## 📋 Table of Contents
 
@@ -85,6 +81,16 @@ REDDIT_USER_AGENT=your_user_agent_string
 
 Obtain credentials by creating a Reddit application at: https://www.reddit.com/prefs/apps
 
+### 5. Make sure you have downloaded ollama
+
+If not download link: https://ollama.com/
+
+
+### 6. Install mistral
+
+In order to install mistral ,open terminal and run the following command:
+
+ollama run mistral
 ---
 
 ## 🧪 Usage
