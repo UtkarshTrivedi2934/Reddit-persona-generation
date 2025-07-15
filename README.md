@@ -89,8 +89,9 @@ If not download link: https://ollama.com/
 ### 6. Install mistral
 
 In order to install mistral ,open terminal and run the following command:
-
+```bash
 ollama run mistral
+```
 ---
 
 ## 🧪 Usage
