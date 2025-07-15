@@ -1,0 +1,4 @@
+praw
+ollama
+python-dotenv
+tqdm
